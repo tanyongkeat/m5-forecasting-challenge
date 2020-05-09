@@ -13,7 +13,7 @@ The RMSSE score is significantly better than all the baseline models.
    - EDA and visualisation to determine to effect of holidays on the demand of product of different department, can be modified to visualise other relationship
  - forecasting.ipynb
    - forecasting and producing submission
-<br><br><a href="https://www.kaggle.com/c/18599/download-all">link to datasets</a>
+ - <a href="https://www.kaggle.com/c/18599/download-all">link to datasets</a>
 
 ## Requirements
 pystan
